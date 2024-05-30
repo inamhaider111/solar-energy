@@ -647,7 +647,7 @@
 
 @media(max-width: 556px) {
 	.logo {
-		margin-left: -20px;
+		margin-left: -10px;
 	}
 
 	.testimonials-slider-two {
@@ -664,7 +664,7 @@
 	}
 
 	.testimonials-card-two h2 {
-		font-size: 45px;
+		font-size: 40px;
 		line-height: 50px;
 		width: 100%;
 		margin-bottom: 20px;
